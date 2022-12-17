@@ -1,0 +1,5 @@
+silabus rekayasa perangkat lunak kelas 5:
+- Git dan Github
+- Framework Bootstrap
+- Framework Codeigniter
+- DBMS Mysgl
